@@ -4,6 +4,6 @@ R for Ziqi Geng, Jialiang Li, Yi Niu and Xiaogung Wang. Goodness-of-fit test for
 
 Here is a general explanation of what is contained in this folder.
 
-Biometrics Data: Murray Smoking Cessation data, data example used in the manuscript
+Smoking Cessation Data: Murray Smoking Cessation data, data example used in the manuscript
 
 iccgof: Main R application for the developed methods.
