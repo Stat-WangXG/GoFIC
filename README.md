@@ -5,6 +5,6 @@ R code of simulation and data analysis for Ziqi Geng, Jialiang Li, Yi Niu and Xi
 
 Here is a general explanation of what is contained in this folder.
 
-Smoking Cessation Data: Murray Smoking Cessation data, data example used in the manuscript
+Smoking Cessation Data: Murray Smoking Cessation data, data example used in the manuscript.
 
 iccgof: Main R application for the developed methods.
