@@ -1,10 +1,13 @@
+#The function 'gof_ic' requires a single dataframe with two colums named 'L' and 'R'. 
+#The 'L' column refers to the left endpoint of the interval consored data of interest and contains the value of 0 when the observation is left-censored.
+#The 'R' column refers to the right endpoint of the interval consored data of interest and contains the value of Inf when the observation is right-censored.
+#It returns a list containing: p-value, the probability of falsely rejecting the null hypothesis; theta, the MLE of parameters; 
+#s.d._of_theta, standard errors of estimatesof parameters and AIC, the Akaike information criterion.
 library(ReIns)
 library(maxLik)
 library(magrittr)
 library(survival)
 library(pracma)
-library(doParallel)
-library(snowfall)
 
 
 source("f.R")
