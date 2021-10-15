@@ -1,12 +1,12 @@
 # Goodness_of_fit-Inteval_Censored-cure
 Supplement to 'Goodness-of-fit test for a parametric mixture cure model under partly interval-censored data'.
 
-R code of data analysis for Ziqi Geng, Jialiang Li, Yi Niu and Xiaogung Wang. Goodness-of-fit test for a parametric mixture cure model under partly interval-censored data. Biometrical Journal. 
+R code and data for analysis in Ziqi Geng, Jialiang Li, Yi Niu and Xiaogung Wang. Goodness-of-fit test for a parametric mixture cure model under partly interval-censored data. Biometrical Journal. 
 
 Here is a general explanation of what is contained in the folders.
 
 ## R
-gof_ic.R:     Main R application for testing the null hypothesis.  
+gof_icc.R:     Main R application for testing the null hypothesis.  
 gqz.R:        Density, distribution function and random generation for the Gompertz distribution with parameters shape and scale.  
 f.R:          Log-likelihood function.  
 dlrb_n.R:     Generation of bootstrap samples.  
